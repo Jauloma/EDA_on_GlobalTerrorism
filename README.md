@@ -40,7 +40,9 @@
         - [Ransom](#iii-ransom)
 3. [Acknowledgements](#acknowledgements)
 4. [Contact](#contact)
-5. [EDA Endpoints](#eda-endpoints)
+5. [More_contact_details](#More contact details)
+6. [Summary](#Summary)
+7. [Author](#Author)
 
 ## Introduction
 This repository contains an exploratory data analysis (EDA) of the Global Terrorism Database (GTD). The GTD is an open-source database that includes information on terrorist attacks around the world from 1970 through the present.
