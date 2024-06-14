@@ -150,7 +150,7 @@ We would like to acknowledge the Global Terrorism Database (GTD) team at the Uni
 ## Contact
 For any questions or feedback, please contact Jacob Jaroya at jaroyajo@gmail.com.
 
-## EDA Endpoints
+## More contact details
 
 1. [https://www.linkedin.com/in/jjaroya/](#)
 2. [https://github.com/Jauloma/EDA_on_GlobalTerrorism](#)
@@ -168,3 +168,4 @@ This internship has not only allowed me to apply my academic knowledge in a prac
 
 ## Author: 
 Jacob Jaroya
+Data Analyst/Scientist
