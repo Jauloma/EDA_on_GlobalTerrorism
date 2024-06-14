@@ -147,7 +147,12 @@ Understand if incidents were claimed by groups.
 Investigate incidents involving ransom demands.
 
 ## Acknowledgements
-We would like to acknowledge the Global Terrorism Database (GTD) team at the University of Maryland for providing this comprehensive and valuable dataset.
+I would like to express my deepest gratitude to the Graduate Rotational Internship Program (GRIP) for providing me with the invaluable opportunity to undertake an internship project on Exploratory Data Analysis (EDA) of Global Terrorism. This experience has been incredibly enriching and has significantly contributed to my professional and personal growth.
+
+I am particularly thankful for the support and guidance provided by the mentors and coordinators throughout the internship. Their expertise and insights have been instrumental in helping me navigate the complexities of the project and in enhancing my understanding of data analysis and its real-world applications.
+
+This internship has not only allowed me to apply my academic knowledge in a practical setting but has also provided me with a deeper understanding of the global terrorism landscape through data-driven insights. The skills and experiences I have gained during this project will undoubtedly be beneficial in my future endeavors.
+
 
 ## Contact
 For any questions or feedback, please contact Jacob Jaroya at jaroyajo@gmail.com.
@@ -161,12 +166,6 @@ For any questions or feedback, please contact Jacob Jaroya at jaroyajo@gmail.com
 ## Summary
 This README provides an outline of the exploratory data analysis (EDA) conducted on the Global Terrorism Database (GTD). Each section of the EDA aims to uncover patterns and insights into the nature and impact of terrorism worldwide. The endpoints listed will lead to detailed analyses and visualizations for each attribute category.
 
-## Acknowledgement
-I would like to express my deepest gratitude to the Graduate Rotational Internship Program (GRIP) for providing me with the invaluable opportunity to undertake an internship project on Exploratory Data Analysis (EDA) of Global Terrorism. This experience has been incredibly enriching and has significantly contributed to my professional and personal growth.
-
-I am particularly thankful for the support and guidance provided by the mentors and coordinators throughout the internship. Their expertise and insights have been instrumental in helping me navigate the complexities of the project and in enhancing my understanding of data analysis and its real-world applications.
-
-This internship has not only allowed me to apply my academic knowledge in a practical setting but has also provided me with a deeper understanding of the global terrorism landscape through data-driven insights. The skills and experiences I have gained during this project will undoubtedly be beneficial in my future endeavors.
 
 ## Author: 
 Jacob Jaroya
