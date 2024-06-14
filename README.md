@@ -168,4 +168,5 @@ This internship has not only allowed me to apply my academic knowledge in a prac
 
 ## Author: 
 Jacob Jaroya
+
 Data Analyst/Scientist
