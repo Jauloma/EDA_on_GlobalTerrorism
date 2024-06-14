@@ -152,15 +152,19 @@ For any questions or feedback, please contact Jacob Jaroya at jaroyajo@gmail.com
 
 ## EDA Endpoints
 
-1. [Yearly Analysis](#)
-2. [Geographical Distribution](#)
-3. [Attack Types](#)
-4. [Impact Analysis](#)
-5. [Perpetrator Information](#)
+1. [https://www.linkedin.com/in/jjaroya/](#)
+2. [https://github.com/Jauloma/EDA_on_GlobalTerrorism](#)
 
 ---
-
+## Summary
 This README provides an outline of the exploratory data analysis (EDA) conducted on the Global Terrorism Database (GTD). Each section of the EDA aims to uncover patterns and insights into the nature and impact of terrorism worldwide. The endpoints listed will lead to detailed analyses and visualizations for each attribute category.
+
+## Acknowledgement
+I would like to express my deepest gratitude to the Graduate Rotational Internship Program (GRIP) for providing me with the invaluable opportunity to undertake an internship project on Exploratory Data Analysis (EDA) of Global Terrorism. This experience has been incredibly enriching and has significantly contributed to my professional and personal growth.
+
+I am particularly thankful for the support and guidance provided by the mentors and coordinators throughout the internship. Their expertise and insights have been instrumental in helping me navigate the complexities of the project and in enhancing my understanding of data analysis and its real-world applications.
+
+This internship has not only allowed me to apply my academic knowledge in a practical setting but has also provided me with a deeper understanding of the global terrorism landscape through data-driven insights. The skills and experiences I have gained during this project will undoubtedly be beneficial in my future endeavors.
 
 ## Author: 
 Jacob Jaroya
