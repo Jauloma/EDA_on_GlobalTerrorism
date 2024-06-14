@@ -146,7 +146,7 @@ Understand if incidents were claimed by groups.
 #### iii. Ransom
 Investigate incidents involving ransom demands.
 
-## Acknowledgements
+## Acknowledgement
 I would like to express my deepest gratitude to the Graduate Rotational Internship Program (GRIP) for providing me with the invaluable opportunity to undertake an internship project on Exploratory Data Analysis (EDA) of Global Terrorism. This experience has been incredibly enriching and has significantly contributed to my professional and personal growth.
 
 I am particularly thankful for the support and guidance provided by the mentors and coordinators throughout the internship. Their expertise and insights have been instrumental in helping me navigate the complexities of the project and in enhancing my understanding of data analysis and its real-world applications.
