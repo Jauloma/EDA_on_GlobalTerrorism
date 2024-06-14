@@ -45,7 +45,7 @@
 7. [Author](#Author)
 
 ## Introduction
-This repository contains an exploratory data analysis (EDA) of the Global Terrorism Database (GTD). The GTD is an open-source database that includes information on terrorist attacks around the world from 1970 through 2017 and with records of over 181,000 and 135 attributes.
+This repository contains an exploratory data analysis (EDA) of the Global Terrorism Database (GTD). The GTD is an open-source database that includes information on terrorist attacks around the world from 1970 through 2017 and with over 181,000 records and 135 attributes.
 
 ## Exploratory Data Analysis (EDA)
 
