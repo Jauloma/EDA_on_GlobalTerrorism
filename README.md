@@ -164,7 +164,7 @@ For any questions or feedback, please contact Jacob Jaroya at jaroyajo@gmail.com
 
 ---
 ## Summary
-This README provides an outline of the exploratory data analysis (EDA) conducted on the Global Terrorism Database (GTD). Each section of the EDA aims to uncover patterns and insights into the nature and impact of terrorism worldwide. The endpoints listed will lead to detailed analyses and visualizations for each attribute category.
+This README provides an outline of the exploratory data analysis (EDA) conducted on the Global Terrorism Database (GTD). Each section of the EDA aims to uncover patterns and insights into the nature and impact of terrorism worldwide. 
 
 
 ## Author: 
